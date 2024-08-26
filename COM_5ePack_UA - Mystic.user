@@ -4395,6 +4395,10 @@ endif]]></eval>
       <autotag group="Helper" tag="PsiLike"/>
       <autotag group="Helper" tag="SpellLike"/>
       </bootstrap>
+    <bootstrap thing="po5cOccMnd">
+      <autotag group="Helper" tag="PsiLike"/>
+      <autotag group="Helper" tag="SpellLike"/>
+      </bootstrap>
     <bootstrap thing="po5cBrkWil">
       <autotag group="Helper" tag="SpellLike"/>
       </bootstrap>
